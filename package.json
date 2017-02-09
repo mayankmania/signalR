@@ -1,0 +1,22 @@
+{
+  "name": "rpisignalrservice",
+  "version": "1.0.0",
+  "description": "signalr service for rpi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankmania/signalR.git"
+  },
+  "author": "Mayank Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayankmania/signalR/issues"
+  },
+  "homepage": "https://github.com/mayankmania/signalR#readme",
+  "dependencies": {
+    "signalr": "^2.2.1"
+  }
+}
